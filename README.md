@@ -1,6 +1,6 @@
 # AlphaFold 3 Minimal Implementation  
   
-This repository contains a minimal implementation of AlphaFold 3, a state-of-the-art protein structure prediction model. The implementation is forked from the repository X (provide the link to the original repository), and it has been simplified for educational purposes or quick prototyping.  
+This repository contains a minimal implementation of AlphaFold 3, a state-of-the-art protein structure prediction model. The implementation is forked from the repository https://github.com/amorehead/alphafold3-pytorch-lightning-hydra (provide the link to the original repository), and it has been simplified for educational purposes or quick prototyping.  
   
 ## Prerequisites  
   
